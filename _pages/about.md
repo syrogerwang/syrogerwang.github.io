@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Shengyi Wang graduated from the University of California, Santa Barbara with a Bachelor of Science in Mathematics. He currently works at a chemical manufacturing company as a Global Data Reporting Analyst, where he supports data-driven decision-making through global reporting initiatives. His professional experience spans the healthcare and financial industries, providing him with a diverse analytical background.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of his professional work, he enjoys gaming, cooking, and exploring new interests that allow him to continually learn and grow. He also values time with his wife and their dog, Kibo, a Border Collie who brings energy and companionship to their daily life.
